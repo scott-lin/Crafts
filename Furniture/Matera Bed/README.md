@@ -1,6 +1,6 @@
 # Matera Bed
 
-## Drawer Hardware: Blum Movento
+## Blum Movento Drawer Hardware
 
 <https://www.blum.com/us/en/products/runnersystems/movento/>
 
@@ -15,7 +15,7 @@ Movento with Bluemotion/Tip-on
 
 ## Limitations
 
-The drawer height is limited by mattress thickness. With a 12" mattress, the overall aesthetics must be balanced against the utility of the drawers. If you increase the height of the drawers, then the mattress must be pushed higher, which makes the overall appearance funny since the mattress sits so high on the frame. Conversely, if the mattress is dropped too low into the frame, then the drawers become shallow and unusable. To mitigate this limitation, the mattress slats have been oriented 90 degrees compared to traditional beds designs to allow for more drawer depth.
+The original Matera bed design has been adapted for a 12" thick mattress. The main limiter of this mattress is drawer height. The overall aesthetics must be balanced against the utility of the drawers. If you increase the height of the drawers, then the mattress must be raised, which makes the overall appearance akward as the mattress sits high on the frame. Conversely, if the mattress is sunk low into the frame, then the drawers become shallow and unusable. To mitigate this limitation, the mattress slats have been oriented 90 degrees compared to traditional beds designs to allow for more drawer depth. The height from the ground of the side rails and footboard have also been increased slightly for composition.
 
 ## Inspiration
 
