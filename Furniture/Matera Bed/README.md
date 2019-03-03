@@ -20,3 +20,5 @@ The original Matera bed design has been adapted for a 12" thick mattress. The ma
 ## Inspiration
 
 Sean Yoo's Matera bed
+
+![Matera bed with storage](/Images/Matera Bed with Storage.jpg)
