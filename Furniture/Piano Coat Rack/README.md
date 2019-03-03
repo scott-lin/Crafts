@@ -10,4 +10,4 @@ In the 3D model here of the offset design, the highest keys are at the ideal piv
 
 Pinterest search for piano coat racks
 
-![Sticks Five-Hook Rack](/Images/Sticks Five-Hook Rack.jpg)
+![Sticks Five-Hook Rack](./Images/Sticks%20Five-Hook%20Rack.jpg)
