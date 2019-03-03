@@ -6,6 +6,10 @@ The keys can either be aligned perfectly in a row or offset vertically from each
 
 In the 3D model here of the offset design, the highest keys are at the ideal pivot point and would be functional.
 
+## References
+
+Helpful how-to video: https://www.youtube.com/watch?v=syUEoeTMBjw
+
 ## Inspiration
 
 Pinterest search for piano coat racks
