@@ -1,7 +1,8 @@
 # Matera Bed
 
-## Blum Movento Drawer Hardware
+## Hardware
 
+**Blum Movento**
 <https://www.blum.com/us/en/products/runnersystems/movento/>
 
 * Runners: 763.5330S
@@ -19,6 +20,6 @@ The original Matera bed design has been adapted for a 12" thick mattress. The ma
 
 ## Inspiration
 
-Sean Yoo's Matera bed
+Sean Yoo's Matera Bed
 
 ![Matera bed with storage](./Images/Matera%20Bed%20with%20Storage.jpg)
