@@ -3,7 +3,7 @@
 ## Hardware
 
 **Blum Movento**
-<https://www.blum.com/us/en/products/runnersystems/movento/>
+<https://www.blum.com/us/en/products/runnersystems/movento/overview>
 
 * Runners: 763.5330S
 * Locks: T51.7601
