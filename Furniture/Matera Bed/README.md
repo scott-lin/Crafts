@@ -4,7 +4,7 @@
 
 Sean Yoo's Matera Bed
 
-![Matera bed with storage](./Images/Matera%20Bed%20with%20Storage.jpg)
+![Matera bed with storage](./Images/Original.jpg)
 
 ## Hardware
 
